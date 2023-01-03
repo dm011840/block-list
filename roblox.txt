@@ -1,7 +1,7 @@
 #Roblox Pihole Block list.
 
 rbxcdn.com
-t0.rbxcdn.com
+.rbxcdn.com
 rbxtrk.com
 roblox-c0.cachefly.net
 roblox-c1.cachefly.net
@@ -18,6 +18,8 @@ roblox-t3.cachefly.net
 roblox-t4.cachefly.net
 roblox-t5.cachefly.net
 roblox.com
+.roblox.com
+roblox.plus
 www.roblox.com
 corps.roblox.com
 games.roblox.com
