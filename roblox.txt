@@ -1,3 +1,5 @@
+#Roblox Pihole Block list.
+
 rbxcdn.com
 t0.rbxcdn.com
 rbxtrk.com
