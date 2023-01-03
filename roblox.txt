@@ -1,4 +1,5 @@
 rbxcdn.com
+t0.rbxcdn.com
 rbxtrk.com
 roblox-c0.cachefly.net
 roblox-c1.cachefly.net
