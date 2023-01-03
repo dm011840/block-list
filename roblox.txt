@@ -21,7 +21,7 @@ roblox.com
 .roblox.com
 roblox.plus
 www.roblox.com
-corps.roblox.com
+corp.roblox.com
 games.roblox.com
 metrics.roblox.com
 presence.roblox.com
