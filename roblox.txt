@@ -19,6 +19,7 @@ roblox-t4.cachefly.net
 roblox-t5.cachefly.net
 roblox.com
 www.roblox.com
+corps.roblox.com
 games.roblox.com
 metrics.roblox.com
 presence.roblox.com
